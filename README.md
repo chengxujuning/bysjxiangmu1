@@ -12,7 +12,7 @@
 
 <p>
   🍬 领取地址 →
-  <a href="https://www.yuque.com/techninja/code">点击领取查看</a>
+  <a href="https://www.yuque.com/techninja/code">点击领取（点我）</a>
 </p>
 
 
